@@ -15,5 +15,7 @@ All of the commands are lower case:
 
 git checkout -b feature/T01: creates a new branch and switch to the new branch
 
+
 conflict
+
 
